@@ -65,8 +65,6 @@ def test_create_attendance_log():
     assert response.json() == {"message": "Attendance log created successfully", "attendance_log_id": 1}
 
 
-# Add more test cases for other endpoints
-
 if __name__ == "__main__":
     import pytest
 

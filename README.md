@@ -10,7 +10,7 @@ This is an Attendance Management System (AMS) built using FastAPI. The system al
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/abhi-sh16/ams
    ```
 
 ## Use Case: Managing Course Attendance
